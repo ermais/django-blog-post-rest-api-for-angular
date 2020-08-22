@@ -1,2 +1,2 @@
 # This blog-post api build for for angular blog-post project.
-# u can find and checkout the code
+# checkout this link and see the source code https://github.com/ermais/Angular-Django-blog-post
